@@ -1,0 +1,2 @@
+# blacklinks
+js safelink
